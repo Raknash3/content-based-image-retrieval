@@ -16,7 +16,3 @@ Ext.cpp - This file contains code for the third extension.
 
 MacOS/Windows
 Visual Studio Code
-
-# Time Travel Days
-
-Two days taken (6 days remaining)
