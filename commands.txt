@@ -1,0 +1,26 @@
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample1\target\pic.1016.jpg E:\MSCS\CVPR\projects\project2\data\sample1\input b 5
+
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample2\target\pic.0164.jpg E:\MSCS\CVPR\projects\project2\data\sample2\input h 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample3\target\pic.0164.jpg E:\MSCS\CVPR\projects\project2\data\sample3\input h2 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample4\target\pic.0274.jpg E:\MSCS\CVPR\projects\project2\data\sample4\input m 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample5\target\pic.0535.jpg E:\MSCS\CVPR\projects\project2\data\sample5\input t 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample5\target\pic.0535.jpg E:\MSCS\CVPR\projects\project2\data\sample5\input f 5
+
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample5\target\pic.0535.jpg E:\MSCS\CVPR\projects\project2\data\sample5\input c 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample5\target\pic.0164.jpg E:\MSCS\CVPR\projects\project2\data\sample6\input d 5
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample5\target\pic.0893.jpg E:\MSCS\CVPR\projects\project2\data\sample6\input d 5
+
+
+E:\MSCS\CVPR\projects\project2\data\sample7\target
+
+
+.\patternmatching.exe E:\MSCS\CVPR\projects\project2\data\sample7\target\pic.0002.jpg E:\MSCS\CVPR\projects\project2\data\sample7\input t 5
